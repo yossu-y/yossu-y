@@ -4,7 +4,7 @@
 --->
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossu-y&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yossu-y/github-readme-stats" />
+  <img alt="Top Langs" height="150px" width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossu-y&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yossu-y/github-readme-stats" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yossu-y&theme=vue-dark&show_icons=true)](https://github.com/yossu-y/github-readme-stats" />
 </p>
 
